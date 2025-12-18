@@ -1,0 +1,1 @@
+Full-stack Expense Tracker built using Angular, Spring Boot, and PostgreSQL.
